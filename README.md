@@ -1,3 +1,3 @@
 # GitPractice
 Hello
-Commit
+3rd line branch 1
