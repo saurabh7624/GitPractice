@@ -1,3 +1,3 @@
 # GitPractice
-Hello
-HI
+Hello line
+3rd line
