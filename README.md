@@ -1,3 +1,2 @@
 # GitPractice
 Hello
-Commit
